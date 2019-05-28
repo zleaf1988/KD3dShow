@@ -1,0 +1,4 @@
+﻿qtmaind.lib(qtmain_win.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(KdPc3dShow.obj 中)
+qtmaind.lib(qtmain_win.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(KdPc3dShow.obj 中)
+MSVCRT.lib(initializers.obj) : warning LNK4098: 默认库“msvcrtd.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+D:\work\KdPc3dShow\Win32\Release\\KdPc3dShow.exe : fatal error LNK1319: 检测到 2 个不匹配项
